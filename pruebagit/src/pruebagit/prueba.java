@@ -2,6 +2,6 @@ package pruebagit;
 
 public class prueba {
 	/*
-	 * prueba.
+	 * prueba 2.
 	 */
 }
